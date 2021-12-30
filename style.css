@@ -84,9 +84,9 @@ section {
 .google-logo > img {
     align-self: center;
     height: auto;
-    object-fit: contain;
+    /* object-fit: contain;
     object-position: center bottom;
-    filter: brightness(100%);
+    filter: brightness(100%); */
     margin-bottom: 23px;
 }
 
